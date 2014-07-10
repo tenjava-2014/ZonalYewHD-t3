@@ -1,0 +1,3 @@
+name: ZonalYewHD-t3
+main: com.tenjava.entries.ZonalYewHD.t3.TenJava
+version: '${project.version}'
